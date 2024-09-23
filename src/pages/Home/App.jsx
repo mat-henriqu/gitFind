@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Header from '../../components/Header/header.jsx';
+import {Header} from '../../components/Header/header.jsx';
 import ItemList from '../../components/ItemList/ItemList.jsx';
 import BACKGROUND from '../../assets/images/image.png';
 import './styles.css';
